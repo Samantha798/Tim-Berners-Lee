@@ -96,4 +96,13 @@ p{
     background-color: deepskyblue;
 
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: fuchsia;
+}
     
